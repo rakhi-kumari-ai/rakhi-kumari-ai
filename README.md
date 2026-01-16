@@ -32,7 +32,7 @@ Scikit-learn • Regression • Classification
 
 ## 📌 Featured Projects
 
-🔹 **📊E-Commerce Sales Analysis Project**
+### 🔹 📊E-Commerce Sales Analysis Project
 
 Analyzed e-commerce sales data using **Python, SQL, and Jupyter Notebook** to uncover trends, visualize insights, and optimize sales performance.  
 
@@ -49,7 +49,7 @@ Analyzed e-commerce sales data using **Python, SQL, and Jupyter Notebook** to un
 
 ---
 
-🔹 **🎥 Netflix Data Analysis**  
+### 🔹 🎥 Netflix Data Analysis
 
 This project performs **Exploratory Data Analysis (EDA)** on Netflix movies and TV shows. It uncovers trends, patterns, and insights in the content available, such as release trends, ratings, genres, and durations, using Python and visualization tools.   
 
